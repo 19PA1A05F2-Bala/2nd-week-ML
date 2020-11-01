@@ -3,10 +3,10 @@
 # AGRO BOT
 
 # Description
-<b>
-* Main objective of agrobot is to give the properties and suitable crops for a soil. \n
-* If the user gives the soil name (either uppercase or lowercase), it will suggest the crops to the user in a clear manner.\n
-* In this bot, there are 7 main types of soils are there. They are \n
+
+- Main objective of agrobot is to give the properties and suitable crops for a soil. \n
+- If the user gives the soil name (either uppercase or lowercase), it will suggest the crops to the user in a clear manner.\n
+- In this bot, there are 7 main types of soils are there. They are \n
   1. BLACK SOIL  \n
   2. RED SOIL  \n
   3. ALUVIAL SOIL \n
